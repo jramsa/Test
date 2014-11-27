@@ -1,3 +1,5 @@
 # Hello World !
+----------------
 
-Moi c'est Jérôme.
+- Moi c'est Jérôme.
+- Hello
